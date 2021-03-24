@@ -544,7 +544,7 @@ void main()
 	printf("\n Minimun cost=%d",mincost);
 	getch();
 }
-#__________quick sort_______
+__________quick sort_______
 #include<stdio.h>
 void quicksort(int number[25],int first,int last){
    int i, j, pivot, temp;
